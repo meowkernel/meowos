@@ -25,8 +25,10 @@ If you want to boot on other hypervisor, You must set meowos.flp in dist directo
 Drive must set as Floppy. Some hypervisors can cause error.
 
 
-# On Windows
+# On Other Platform
 Build Script and Boot Script for Windows are be provided soon.
+
+I think it will work on other UNIX Systems like BSD, AIX and Clang compiler.
 
 
 # Progress

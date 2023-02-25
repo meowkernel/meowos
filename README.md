@@ -28,7 +28,7 @@ Drive must set as Floppy. Some hypervisors can cause error.
 # On Other Platform
 Build Script and Boot Script for Windows are be provided soon.
 
-I think it will work on other UNIX Systems like BSD, AIX and Clang compiler.
+I think it will work with small tricks on other UNIX Systems like BSD, AIX and Clang compiler.
 
 
 # Progress

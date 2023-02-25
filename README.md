@@ -20,6 +20,10 @@ On qemu-kvm became ready, You can connect to display with VNC 127.0.0.1:5900.
 
 I recommend TigerVNC for display.
 
+If you want to boot on other hypervisor, You must set meowos.flp in dist directory as Primary boot device.
+
+Drive must set as Floppy. Some hypervisors can cause error.
+
 
 # On Windows
 Build Script and Boot Script for Windows are be provided soon.
